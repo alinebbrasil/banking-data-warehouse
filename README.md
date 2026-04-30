@@ -103,9 +103,8 @@ Para visualizar de forma interativa:
 ```
 banking-data-warehouse/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── data/   
+│   └── raw/
 │
 ├── scripts/
 │   ├── generate_banking_data.py
@@ -162,6 +161,7 @@ python scripts/run_sql_file.py sql/01_create_dw_tables.sql
 ## Autora
 
 Aline Bastos Brasil
+
 Analista de Dados | SQL | Python | Power BI | ETL & Data Pipelines
 
 LinkedIn: https://www.linkedin.com/in/alinebbrasildata/
