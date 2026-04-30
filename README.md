@@ -58,7 +58,7 @@ O dashboard foi estruturado com foco em três indicadores principais:
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard-banking.png)
+![Dashboard](dashboard/dashboard-banking.jpg)
 
 O dashboard em Power BI apresenta uma visão analítica do comportamento financeiro.
 
@@ -117,7 +117,7 @@ banking-data-warehouse/
 │   ├── 02_analytical_queries.sql
 │
 ├── dashboard/
-│   ├── dashboard-banking.png
+│   ├── dashboard-banking.jpg
 │   └── dashboard-banking.pbix
 │
 ├── banking.db
