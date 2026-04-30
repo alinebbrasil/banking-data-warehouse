@@ -1,0 +1,21 @@
+branch_id,branch_name,city,state,branch_type
+1,Branch 1,Curitiba,PR,Digital
+2,Branch 2,Brasília,DF,Physical
+3,Branch 3,Rio de Janeiro,RJ,Digital
+4,Branch 4,São Paulo,SP,Digital
+5,Branch 5,São Paulo,SP,Physical
+6,Branch 6,Rio de Janeiro,RJ,Physical
+7,Branch 7,Brasília,DF,Digital
+8,Branch 8,Belo Horizonte,MG,Digital
+9,Branch 9,Recife,PE,Digital
+10,Branch 10,Porto Alegre,RS,Digital
+11,Branch 11,Recife,PE,Physical
+12,Branch 12,Recife,PE,Physical
+13,Branch 13,Recife,PE,Physical
+14,Branch 14,Porto Alegre,RS,Digital
+15,Branch 15,Salvador,BA,Physical
+16,Branch 16,Recife,PE,Physical
+17,Branch 17,Belo Horizonte,MG,Digital
+18,Branch 18,Salvador,BA,Digital
+19,Branch 19,Belo Horizonte,MG,Physical
+20,Branch 20,Salvador,BA,Digital

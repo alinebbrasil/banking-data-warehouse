@@ -1,0 +1,501 @@
+customer_id,customer_name,city,state,customer_segment,registration_date
+1,Customer 1,São Paulo,SP,Retail,2021-07-17
+2,Customer 2,Curitiba,PR,Retail,2020-10-12
+3,Customer 3,São Paulo,SP,Corporate,2023-01-21
+4,Customer 4,São Paulo,SP,Corporate,2022-05-14
+5,Customer 5,Rio de Janeiro,RJ,Retail,2020-07-10
+6,Customer 6,Curitiba,PR,Retail,2022-10-31
+7,Customer 7,Rio de Janeiro,RJ,Corporate,2021-02-11
+8,Customer 8,Porto Alegre,RS,Retail,2022-07-08
+9,Customer 9,Salvador,BA,Retail,2020-11-22
+10,Customer 10,Porto Alegre,RS,Premium,2021-07-23
+11,Customer 11,Belo Horizonte,MG,Retail,2021-11-20
+12,Customer 12,São Paulo,SP,Retail,2022-02-17
+13,Customer 13,São Paulo,SP,Premium,2021-12-05
+14,Customer 14,Salvador,BA,Retail,2022-07-29
+15,Customer 15,São Paulo,SP,Premium,2020-06-10
+16,Customer 16,Salvador,BA,Corporate,2022-01-10
+17,Customer 17,Curitiba,PR,Corporate,2020-05-22
+18,Customer 18,Rio de Janeiro,RJ,Corporate,2021-04-11
+19,Customer 19,Salvador,BA,Retail,2021-04-21
+20,Customer 20,São Paulo,SP,Premium,2021-07-23
+21,Customer 21,Brasília,DF,Corporate,2022-01-17
+22,Customer 22,Belo Horizonte,MG,Premium,2021-12-28
+23,Customer 23,Curitiba,PR,Corporate,2021-06-30
+24,Customer 24,São Paulo,SP,Corporate,2020-12-16
+25,Customer 25,Curitiba,PR,Retail,2022-08-04
+26,Customer 26,Porto Alegre,RS,Premium,2023-02-14
+27,Customer 27,Curitiba,PR,Corporate,2021-10-26
+28,Customer 28,Rio de Janeiro,RJ,Retail,2020-03-06
+29,Customer 29,Recife,PE,Premium,2021-07-02
+30,Customer 30,São Paulo,SP,Retail,2023-03-07
+31,Customer 31,Recife,PE,Retail,2022-10-19
+32,Customer 32,Porto Alegre,RS,Corporate,2022-07-28
+33,Customer 33,Belo Horizonte,MG,Premium,2020-10-12
+34,Customer 34,Curitiba,PR,Corporate,2023-02-23
+35,Customer 35,Salvador,BA,Corporate,2023-04-12
+36,Customer 36,Porto Alegre,RS,Corporate,2022-03-28
+37,Customer 37,Recife,PE,Retail,2020-10-10
+38,Customer 38,Brasília,DF,Retail,2020-04-06
+39,Customer 39,São Paulo,SP,Retail,2020-11-23
+40,Customer 40,Porto Alegre,RS,Corporate,2020-05-10
+41,Customer 41,Porto Alegre,RS,Premium,2022-08-16
+42,Customer 42,Salvador,BA,Corporate,2020-01-24
+43,Customer 43,São Paulo,SP,Corporate,2023-01-04
+44,Customer 44,Salvador,BA,Corporate,2021-11-27
+45,Customer 45,São Paulo,SP,Premium,2022-06-09
+46,Customer 46,Belo Horizonte,MG,Premium,2020-01-07
+47,Customer 47,Salvador,BA,Corporate,2020-12-31
+48,Customer 48,São Paulo,SP,Corporate,2021-09-03
+49,Customer 49,Curitiba,PR,Retail,2022-02-04
+50,Customer 50,Belo Horizonte,MG,Corporate,2022-12-22
+51,Customer 51,Rio de Janeiro,RJ,Corporate,2021-10-25
+52,Customer 52,Brasília,DF,Retail,2020-08-17
+53,Customer 53,Recife,PE,Premium,2021-05-05
+54,Customer 54,Rio de Janeiro,RJ,Retail,2023-03-07
+55,Customer 55,São Paulo,SP,Retail,2022-09-22
+56,Customer 56,São Paulo,SP,Corporate,2020-09-14
+57,Customer 57,Belo Horizonte,MG,Corporate,2022-08-31
+58,Customer 58,Belo Horizonte,MG,Premium,2022-12-16
+59,Customer 59,Porto Alegre,RS,Retail,2023-01-09
+60,Customer 60,Curitiba,PR,Corporate,2021-09-30
+61,Customer 61,Porto Alegre,RS,Corporate,2022-02-03
+62,Customer 62,Brasília,DF,Corporate,2022-07-13
+63,Customer 63,São Paulo,SP,Retail,2021-04-05
+64,Customer 64,São Paulo,SP,Premium,2020-02-13
+65,Customer 65,Curitiba,PR,Corporate,2021-03-27
+66,Customer 66,Rio de Janeiro,RJ,Retail,2020-04-30
+67,Customer 67,Curitiba,PR,Retail,2020-03-05
+68,Customer 68,Recife,PE,Retail,2022-11-18
+69,Customer 69,Curitiba,PR,Premium,2022-09-21
+70,Customer 70,Curitiba,PR,Corporate,2020-09-27
+71,Customer 71,Brasília,DF,Retail,2022-08-26
+72,Customer 72,Porto Alegre,RS,Retail,2020-07-12
+73,Customer 73,São Paulo,SP,Corporate,2022-06-01
+74,Customer 74,Recife,PE,Premium,2022-04-21
+75,Customer 75,Brasília,DF,Corporate,2020-04-20
+76,Customer 76,São Paulo,SP,Retail,2022-04-04
+77,Customer 77,Recife,PE,Retail,2021-05-24
+78,Customer 78,Curitiba,PR,Retail,2023-01-03
+79,Customer 79,Brasília,DF,Retail,2022-05-14
+80,Customer 80,Belo Horizonte,MG,Premium,2022-08-05
+81,Customer 81,Curitiba,PR,Retail,2022-06-26
+82,Customer 82,São Paulo,SP,Retail,2023-01-12
+83,Customer 83,Rio de Janeiro,RJ,Retail,2021-04-29
+84,Customer 84,Belo Horizonte,MG,Premium,2022-09-21
+85,Customer 85,Brasília,DF,Retail,2022-04-01
+86,Customer 86,Rio de Janeiro,RJ,Retail,2022-02-15
+87,Customer 87,Rio de Janeiro,RJ,Premium,2021-06-27
+88,Customer 88,Brasília,DF,Premium,2022-05-16
+89,Customer 89,Brasília,DF,Retail,2021-01-23
+90,Customer 90,Salvador,BA,Retail,2020-04-29
+91,Customer 91,Rio de Janeiro,RJ,Corporate,2021-10-04
+92,Customer 92,Rio de Janeiro,RJ,Retail,2023-04-11
+93,Customer 93,Brasília,DF,Corporate,2022-12-23
+94,Customer 94,Belo Horizonte,MG,Retail,2022-11-06
+95,Customer 95,São Paulo,SP,Retail,2020-05-20
+96,Customer 96,São Paulo,SP,Corporate,2021-04-26
+97,Customer 97,Porto Alegre,RS,Retail,2023-03-12
+98,Customer 98,Curitiba,PR,Corporate,2020-03-22
+99,Customer 99,São Paulo,SP,Premium,2023-04-10
+100,Customer 100,Recife,PE,Premium,2021-02-22
+101,Customer 101,Recife,PE,Retail,2021-06-27
+102,Customer 102,Porto Alegre,RS,Retail,2021-09-06
+103,Customer 103,Brasília,DF,Premium,2020-05-28
+104,Customer 104,Rio de Janeiro,RJ,Premium,2023-02-27
+105,Customer 105,São Paulo,SP,Retail,2023-01-06
+106,Customer 106,Curitiba,PR,Corporate,2021-06-27
+107,Customer 107,Belo Horizonte,MG,Premium,2020-05-20
+108,Customer 108,Curitiba,PR,Premium,2021-08-06
+109,Customer 109,Belo Horizonte,MG,Premium,2023-01-17
+110,Customer 110,Salvador,BA,Corporate,2022-12-19
+111,Customer 111,Rio de Janeiro,RJ,Corporate,2023-02-09
+112,Customer 112,Salvador,BA,Corporate,2020-07-31
+113,Customer 113,Belo Horizonte,MG,Premium,2020-08-24
+114,Customer 114,São Paulo,SP,Corporate,2023-02-07
+115,Customer 115,Belo Horizonte,MG,Premium,2021-07-31
+116,Customer 116,Curitiba,PR,Corporate,2021-12-03
+117,Customer 117,Curitiba,PR,Corporate,2021-06-24
+118,Customer 118,Brasília,DF,Premium,2020-04-14
+119,Customer 119,São Paulo,SP,Corporate,2022-05-17
+120,Customer 120,Salvador,BA,Retail,2020-01-08
+121,Customer 121,Recife,PE,Retail,2021-06-20
+122,Customer 122,Belo Horizonte,MG,Corporate,2022-06-23
+123,Customer 123,Porto Alegre,RS,Corporate,2020-01-20
+124,Customer 124,São Paulo,SP,Retail,2020-11-01
+125,Customer 125,Rio de Janeiro,RJ,Premium,2023-04-07
+126,Customer 126,Belo Horizonte,MG,Premium,2020-09-18
+127,Customer 127,Rio de Janeiro,RJ,Premium,2022-01-16
+128,Customer 128,Rio de Janeiro,RJ,Premium,2021-03-06
+129,Customer 129,Curitiba,PR,Corporate,2020-07-29
+130,Customer 130,Recife,PE,Corporate,2022-04-12
+131,Customer 131,Belo Horizonte,MG,Retail,2020-11-28
+132,Customer 132,Belo Horizonte,MG,Premium,2020-02-20
+133,Customer 133,Belo Horizonte,MG,Corporate,2021-11-11
+134,Customer 134,Porto Alegre,RS,Corporate,2021-05-23
+135,Customer 135,Salvador,BA,Retail,2020-08-09
+136,Customer 136,Porto Alegre,RS,Retail,2022-08-21
+137,Customer 137,Curitiba,PR,Retail,2022-07-31
+138,Customer 138,Recife,PE,Premium,2021-04-11
+139,Customer 139,Curitiba,PR,Retail,2021-01-30
+140,Customer 140,Porto Alegre,RS,Premium,2021-07-24
+141,Customer 141,São Paulo,SP,Premium,2021-12-20
+142,Customer 142,Porto Alegre,RS,Corporate,2023-01-03
+143,Customer 143,Recife,PE,Retail,2020-08-24
+144,Customer 144,Salvador,BA,Retail,2023-04-04
+145,Customer 145,Salvador,BA,Retail,2020-08-10
+146,Customer 146,Porto Alegre,RS,Premium,2021-10-04
+147,Customer 147,Porto Alegre,RS,Corporate,2022-11-13
+148,Customer 148,São Paulo,SP,Premium,2023-03-26
+149,Customer 149,Curitiba,PR,Premium,2020-03-31
+150,Customer 150,Porto Alegre,RS,Retail,2022-11-30
+151,Customer 151,Curitiba,PR,Premium,2022-06-02
+152,Customer 152,São Paulo,SP,Corporate,2021-11-07
+153,Customer 153,Recife,PE,Corporate,2020-09-12
+154,Customer 154,Salvador,BA,Corporate,2021-09-25
+155,Customer 155,Porto Alegre,RS,Premium,2022-04-04
+156,Customer 156,Salvador,BA,Corporate,2020-09-17
+157,Customer 157,Curitiba,PR,Premium,2022-02-15
+158,Customer 158,Belo Horizonte,MG,Corporate,2023-03-11
+159,Customer 159,Salvador,BA,Premium,2023-01-27
+160,Customer 160,Rio de Janeiro,RJ,Premium,2021-08-10
+161,Customer 161,Curitiba,PR,Premium,2023-04-02
+162,Customer 162,Recife,PE,Premium,2022-06-23
+163,Customer 163,Brasília,DF,Corporate,2021-03-13
+164,Customer 164,Brasília,DF,Corporate,2020-12-13
+165,Customer 165,São Paulo,SP,Premium,2022-11-21
+166,Customer 166,Recife,PE,Retail,2021-04-26
+167,Customer 167,Salvador,BA,Retail,2021-02-11
+168,Customer 168,Belo Horizonte,MG,Retail,2020-04-04
+169,Customer 169,Curitiba,PR,Premium,2020-05-29
+170,Customer 170,Brasília,DF,Premium,2023-03-24
+171,Customer 171,Curitiba,PR,Corporate,2022-02-25
+172,Customer 172,Brasília,DF,Premium,2021-05-14
+173,Customer 173,Belo Horizonte,MG,Corporate,2020-01-12
+174,Customer 174,São Paulo,SP,Premium,2021-03-24
+175,Customer 175,Belo Horizonte,MG,Corporate,2022-11-26
+176,Customer 176,Brasília,DF,Retail,2023-02-15
+177,Customer 177,Curitiba,PR,Retail,2022-07-23
+178,Customer 178,Belo Horizonte,MG,Premium,2022-12-23
+179,Customer 179,Recife,PE,Premium,2022-10-30
+180,Customer 180,Porto Alegre,RS,Corporate,2022-07-02
+181,Customer 181,Belo Horizonte,MG,Corporate,2022-08-30
+182,Customer 182,Brasília,DF,Premium,2021-05-21
+183,Customer 183,Salvador,BA,Corporate,2022-09-19
+184,Customer 184,Curitiba,PR,Premium,2022-06-19
+185,Customer 185,São Paulo,SP,Corporate,2021-08-08
+186,Customer 186,Curitiba,PR,Premium,2021-11-18
+187,Customer 187,Recife,PE,Corporate,2020-06-14
+188,Customer 188,Belo Horizonte,MG,Retail,2021-04-18
+189,Customer 189,Porto Alegre,RS,Corporate,2020-11-08
+190,Customer 190,Curitiba,PR,Retail,2022-04-29
+191,Customer 191,Porto Alegre,RS,Premium,2023-01-16
+192,Customer 192,Brasília,DF,Premium,2020-05-07
+193,Customer 193,Curitiba,PR,Premium,2022-03-08
+194,Customer 194,Rio de Janeiro,RJ,Corporate,2022-02-18
+195,Customer 195,Brasília,DF,Retail,2021-12-21
+196,Customer 196,Salvador,BA,Premium,2022-05-08
+197,Customer 197,Curitiba,PR,Premium,2021-03-25
+198,Customer 198,Salvador,BA,Premium,2022-09-21
+199,Customer 199,Rio de Janeiro,RJ,Premium,2021-11-19
+200,Customer 200,Porto Alegre,RS,Corporate,2020-12-04
+201,Customer 201,Brasília,DF,Retail,2022-12-29
+202,Customer 202,Rio de Janeiro,RJ,Premium,2023-03-01
+203,Customer 203,Rio de Janeiro,RJ,Retail,2022-05-27
+204,Customer 204,Belo Horizonte,MG,Premium,2021-01-07
+205,Customer 205,Rio de Janeiro,RJ,Premium,2022-02-15
+206,Customer 206,Recife,PE,Retail,2022-07-20
+207,Customer 207,Recife,PE,Premium,2022-02-15
+208,Customer 208,Salvador,BA,Premium,2021-05-31
+209,Customer 209,São Paulo,SP,Premium,2020-02-09
+210,Customer 210,Rio de Janeiro,RJ,Premium,2021-04-04
+211,Customer 211,São Paulo,SP,Corporate,2020-03-23
+212,Customer 212,Rio de Janeiro,RJ,Retail,2021-02-12
+213,Customer 213,Rio de Janeiro,RJ,Corporate,2020-11-08
+214,Customer 214,Curitiba,PR,Retail,2022-08-27
+215,Customer 215,São Paulo,SP,Corporate,2021-03-22
+216,Customer 216,Brasília,DF,Corporate,2021-06-08
+217,Customer 217,Recife,PE,Retail,2020-08-22
+218,Customer 218,Belo Horizonte,MG,Premium,2020-08-09
+219,Customer 219,Rio de Janeiro,RJ,Premium,2023-03-25
+220,Customer 220,Porto Alegre,RS,Premium,2021-02-10
+221,Customer 221,São Paulo,SP,Corporate,2021-05-12
+222,Customer 222,São Paulo,SP,Corporate,2021-09-09
+223,Customer 223,São Paulo,SP,Corporate,2020-03-25
+224,Customer 224,Recife,PE,Corporate,2022-05-27
+225,Customer 225,Recife,PE,Retail,2022-11-02
+226,Customer 226,Recife,PE,Retail,2022-05-10
+227,Customer 227,Brasília,DF,Retail,2022-06-06
+228,Customer 228,Recife,PE,Corporate,2022-07-30
+229,Customer 229,Belo Horizonte,MG,Premium,2020-12-26
+230,Customer 230,Salvador,BA,Corporate,2023-01-07
+231,Customer 231,Brasília,DF,Premium,2022-06-11
+232,Customer 232,Salvador,BA,Premium,2021-05-17
+233,Customer 233,São Paulo,SP,Premium,2022-07-12
+234,Customer 234,Curitiba,PR,Premium,2023-03-13
+235,Customer 235,Porto Alegre,RS,Premium,2020-02-28
+236,Customer 236,Brasília,DF,Premium,2021-01-07
+237,Customer 237,Brasília,DF,Retail,2021-12-27
+238,Customer 238,Salvador,BA,Premium,2021-07-26
+239,Customer 239,Salvador,BA,Corporate,2020-01-21
+240,Customer 240,Curitiba,PR,Retail,2021-05-09
+241,Customer 241,Porto Alegre,RS,Premium,2023-02-11
+242,Customer 242,Curitiba,PR,Corporate,2022-09-02
+243,Customer 243,Brasília,DF,Premium,2020-02-05
+244,Customer 244,São Paulo,SP,Premium,2021-03-29
+245,Customer 245,Porto Alegre,RS,Corporate,2021-05-13
+246,Customer 246,Salvador,BA,Corporate,2023-04-06
+247,Customer 247,Recife,PE,Premium,2023-02-07
+248,Customer 248,Recife,PE,Premium,2023-02-01
+249,Customer 249,Recife,PE,Premium,2022-07-18
+250,Customer 250,Salvador,BA,Premium,2021-05-29
+251,Customer 251,Curitiba,PR,Retail,2021-01-29
+252,Customer 252,Recife,PE,Retail,2023-01-02
+253,Customer 253,Belo Horizonte,MG,Retail,2021-03-19
+254,Customer 254,Brasília,DF,Premium,2022-12-10
+255,Customer 255,Salvador,BA,Retail,2021-02-01
+256,Customer 256,Salvador,BA,Retail,2022-01-09
+257,Customer 257,Belo Horizonte,MG,Premium,2020-01-29
+258,Customer 258,Belo Horizonte,MG,Premium,2020-04-03
+259,Customer 259,Rio de Janeiro,RJ,Corporate,2021-08-21
+260,Customer 260,Belo Horizonte,MG,Corporate,2022-10-02
+261,Customer 261,São Paulo,SP,Retail,2023-03-21
+262,Customer 262,Salvador,BA,Premium,2022-09-07
+263,Customer 263,Brasília,DF,Premium,2021-01-12
+264,Customer 264,Rio de Janeiro,RJ,Premium,2022-09-05
+265,Customer 265,São Paulo,SP,Retail,2022-03-31
+266,Customer 266,Brasília,DF,Retail,2023-03-27
+267,Customer 267,Rio de Janeiro,RJ,Retail,2020-11-01
+268,Customer 268,Salvador,BA,Retail,2021-05-23
+269,Customer 269,São Paulo,SP,Corporate,2022-05-02
+270,Customer 270,Curitiba,PR,Corporate,2022-02-18
+271,Customer 271,Brasília,DF,Premium,2021-08-31
+272,Customer 272,Porto Alegre,RS,Premium,2023-03-10
+273,Customer 273,Rio de Janeiro,RJ,Corporate,2020-07-22
+274,Customer 274,Curitiba,PR,Corporate,2021-03-08
+275,Customer 275,Salvador,BA,Corporate,2020-06-15
+276,Customer 276,Belo Horizonte,MG,Retail,2020-12-21
+277,Customer 277,São Paulo,SP,Retail,2020-01-06
+278,Customer 278,Porto Alegre,RS,Premium,2022-08-20
+279,Customer 279,Salvador,BA,Retail,2021-04-19
+280,Customer 280,Salvador,BA,Corporate,2021-08-02
+281,Customer 281,Brasília,DF,Retail,2021-04-23
+282,Customer 282,Salvador,BA,Corporate,2021-02-09
+283,Customer 283,Porto Alegre,RS,Retail,2023-01-20
+284,Customer 284,Curitiba,PR,Corporate,2020-11-01
+285,Customer 285,Salvador,BA,Retail,2020-05-26
+286,Customer 286,Rio de Janeiro,RJ,Retail,2021-09-21
+287,Customer 287,Salvador,BA,Premium,2020-09-11
+288,Customer 288,Brasília,DF,Corporate,2021-09-14
+289,Customer 289,Porto Alegre,RS,Premium,2022-10-21
+290,Customer 290,Brasília,DF,Premium,2020-06-13
+291,Customer 291,Rio de Janeiro,RJ,Premium,2021-10-22
+292,Customer 292,Salvador,BA,Retail,2020-07-06
+293,Customer 293,Curitiba,PR,Corporate,2023-03-24
+294,Customer 294,Rio de Janeiro,RJ,Corporate,2021-07-05
+295,Customer 295,Rio de Janeiro,RJ,Retail,2022-08-21
+296,Customer 296,Brasília,DF,Premium,2021-01-06
+297,Customer 297,Porto Alegre,RS,Corporate,2022-10-04
+298,Customer 298,São Paulo,SP,Premium,2021-12-13
+299,Customer 299,Porto Alegre,RS,Premium,2021-10-19
+300,Customer 300,São Paulo,SP,Retail,2021-11-06
+301,Customer 301,Porto Alegre,RS,Corporate,2022-10-11
+302,Customer 302,Salvador,BA,Corporate,2022-03-31
+303,Customer 303,Rio de Janeiro,RJ,Premium,2020-06-29
+304,Customer 304,Recife,PE,Premium,2021-10-24
+305,Customer 305,São Paulo,SP,Premium,2022-11-19
+306,Customer 306,Rio de Janeiro,RJ,Corporate,2023-01-16
+307,Customer 307,Brasília,DF,Premium,2020-04-21
+308,Customer 308,Curitiba,PR,Corporate,2022-01-10
+309,Customer 309,Brasília,DF,Corporate,2022-06-24
+310,Customer 310,Rio de Janeiro,RJ,Retail,2021-06-30
+311,Customer 311,Belo Horizonte,MG,Premium,2022-06-16
+312,Customer 312,Brasília,DF,Retail,2020-02-29
+313,Customer 313,Curitiba,PR,Corporate,2020-11-20
+314,Customer 314,Salvador,BA,Corporate,2020-01-29
+315,Customer 315,Porto Alegre,RS,Retail,2021-04-05
+316,Customer 316,São Paulo,SP,Premium,2020-08-28
+317,Customer 317,Belo Horizonte,MG,Premium,2021-08-20
+318,Customer 318,Salvador,BA,Premium,2022-09-15
+319,Customer 319,Brasília,DF,Retail,2022-07-24
+320,Customer 320,Belo Horizonte,MG,Premium,2021-01-25
+321,Customer 321,Belo Horizonte,MG,Retail,2021-07-19
+322,Customer 322,Porto Alegre,RS,Premium,2022-11-05
+323,Customer 323,Salvador,BA,Retail,2021-08-02
+324,Customer 324,Salvador,BA,Corporate,2023-04-02
+325,Customer 325,Brasília,DF,Retail,2022-07-03
+326,Customer 326,Brasília,DF,Premium,2021-11-11
+327,Customer 327,Porto Alegre,RS,Premium,2021-10-21
+328,Customer 328,Curitiba,PR,Corporate,2021-05-04
+329,Customer 329,Porto Alegre,RS,Retail,2022-04-21
+330,Customer 330,Rio de Janeiro,RJ,Premium,2022-08-26
+331,Customer 331,Porto Alegre,RS,Premium,2020-11-07
+332,Customer 332,Brasília,DF,Retail,2020-09-15
+333,Customer 333,Recife,PE,Retail,2022-06-20
+334,Customer 334,São Paulo,SP,Corporate,2022-07-24
+335,Customer 335,Rio de Janeiro,RJ,Corporate,2020-10-22
+336,Customer 336,Porto Alegre,RS,Corporate,2020-11-12
+337,Customer 337,São Paulo,SP,Premium,2021-06-26
+338,Customer 338,Recife,PE,Corporate,2022-03-25
+339,Customer 339,São Paulo,SP,Premium,2022-12-28
+340,Customer 340,Porto Alegre,RS,Premium,2022-09-26
+341,Customer 341,Rio de Janeiro,RJ,Corporate,2020-05-20
+342,Customer 342,Curitiba,PR,Corporate,2021-08-11
+343,Customer 343,Curitiba,PR,Corporate,2020-07-04
+344,Customer 344,Porto Alegre,RS,Retail,2020-07-24
+345,Customer 345,Brasília,DF,Retail,2021-09-05
+346,Customer 346,Rio de Janeiro,RJ,Retail,2021-10-26
+347,Customer 347,Rio de Janeiro,RJ,Premium,2022-01-04
+348,Customer 348,Recife,PE,Premium,2020-10-25
+349,Customer 349,Curitiba,PR,Corporate,2022-04-23
+350,Customer 350,Belo Horizonte,MG,Retail,2020-12-24
+351,Customer 351,São Paulo,SP,Corporate,2022-02-22
+352,Customer 352,Curitiba,PR,Premium,2023-04-09
+353,Customer 353,Belo Horizonte,MG,Retail,2022-08-02
+354,Customer 354,Salvador,BA,Premium,2021-06-06
+355,Customer 355,Rio de Janeiro,RJ,Premium,2021-08-12
+356,Customer 356,Belo Horizonte,MG,Retail,2022-06-23
+357,Customer 357,Recife,PE,Corporate,2021-09-04
+358,Customer 358,Porto Alegre,RS,Corporate,2021-05-27
+359,Customer 359,Brasília,DF,Premium,2021-02-11
+360,Customer 360,Porto Alegre,RS,Premium,2020-08-06
+361,Customer 361,Curitiba,PR,Premium,2023-03-17
+362,Customer 362,Recife,PE,Corporate,2021-08-28
+363,Customer 363,Salvador,BA,Retail,2022-03-21
+364,Customer 364,Salvador,BA,Retail,2023-03-05
+365,Customer 365,Rio de Janeiro,RJ,Corporate,2022-10-14
+366,Customer 366,Salvador,BA,Retail,2021-12-22
+367,Customer 367,Curitiba,PR,Corporate,2021-01-24
+368,Customer 368,Salvador,BA,Corporate,2020-10-07
+369,Customer 369,São Paulo,SP,Corporate,2020-03-21
+370,Customer 370,Salvador,BA,Premium,2020-03-09
+371,Customer 371,Recife,PE,Corporate,2020-09-26
+372,Customer 372,São Paulo,SP,Premium,2021-10-31
+373,Customer 373,Porto Alegre,RS,Retail,2021-02-15
+374,Customer 374,Belo Horizonte,MG,Corporate,2022-01-19
+375,Customer 375,Salvador,BA,Retail,2021-06-10
+376,Customer 376,Brasília,DF,Premium,2021-11-24
+377,Customer 377,São Paulo,SP,Premium,2020-06-03
+378,Customer 378,Belo Horizonte,MG,Retail,2022-03-24
+379,Customer 379,Recife,PE,Retail,2022-03-19
+380,Customer 380,Rio de Janeiro,RJ,Premium,2023-01-03
+381,Customer 381,São Paulo,SP,Premium,2022-01-24
+382,Customer 382,Salvador,BA,Corporate,2022-02-19
+383,Customer 383,Recife,PE,Retail,2021-04-23
+384,Customer 384,Brasília,DF,Retail,2023-02-23
+385,Customer 385,Recife,PE,Corporate,2021-03-29
+386,Customer 386,São Paulo,SP,Corporate,2022-08-08
+387,Customer 387,Salvador,BA,Corporate,2022-04-16
+388,Customer 388,São Paulo,SP,Retail,2020-04-02
+389,Customer 389,Rio de Janeiro,RJ,Premium,2022-10-05
+390,Customer 390,São Paulo,SP,Retail,2021-04-25
+391,Customer 391,Belo Horizonte,MG,Premium,2022-07-18
+392,Customer 392,Recife,PE,Corporate,2023-01-11
+393,Customer 393,Porto Alegre,RS,Corporate,2020-11-12
+394,Customer 394,Porto Alegre,RS,Corporate,2020-07-21
+395,Customer 395,Brasília,DF,Corporate,2022-04-15
+396,Customer 396,Salvador,BA,Retail,2022-01-28
+397,Customer 397,Curitiba,PR,Premium,2022-06-29
+398,Customer 398,Curitiba,PR,Premium,2020-07-22
+399,Customer 399,Recife,PE,Corporate,2022-01-04
+400,Customer 400,Rio de Janeiro,RJ,Premium,2021-07-19
+401,Customer 401,Curitiba,PR,Retail,2022-07-20
+402,Customer 402,São Paulo,SP,Corporate,2021-03-10
+403,Customer 403,Rio de Janeiro,RJ,Retail,2021-11-14
+404,Customer 404,Curitiba,PR,Retail,2023-03-02
+405,Customer 405,Curitiba,PR,Retail,2023-02-09
+406,Customer 406,Curitiba,PR,Corporate,2021-03-18
+407,Customer 407,Curitiba,PR,Premium,2020-10-29
+408,Customer 408,Rio de Janeiro,RJ,Premium,2020-10-23
+409,Customer 409,Belo Horizonte,MG,Corporate,2021-05-28
+410,Customer 410,Belo Horizonte,MG,Retail,2020-02-22
+411,Customer 411,Belo Horizonte,MG,Retail,2022-01-03
+412,Customer 412,Curitiba,PR,Corporate,2021-10-25
+413,Customer 413,Rio de Janeiro,RJ,Retail,2021-06-27
+414,Customer 414,Rio de Janeiro,RJ,Retail,2022-05-12
+415,Customer 415,São Paulo,SP,Corporate,2020-05-10
+416,Customer 416,Brasília,DF,Premium,2022-01-11
+417,Customer 417,São Paulo,SP,Premium,2022-10-28
+418,Customer 418,Curitiba,PR,Corporate,2020-03-29
+419,Customer 419,Salvador,BA,Premium,2020-03-04
+420,Customer 420,Rio de Janeiro,RJ,Premium,2022-04-02
+421,Customer 421,Porto Alegre,RS,Corporate,2020-08-09
+422,Customer 422,Brasília,DF,Corporate,2022-06-27
+423,Customer 423,São Paulo,SP,Retail,2021-10-21
+424,Customer 424,Belo Horizonte,MG,Retail,2020-09-15
+425,Customer 425,Salvador,BA,Corporate,2023-04-13
+426,Customer 426,Recife,PE,Premium,2022-12-22
+427,Customer 427,Salvador,BA,Premium,2022-11-01
+428,Customer 428,Porto Alegre,RS,Retail,2020-08-22
+429,Customer 429,Curitiba,PR,Premium,2022-07-13
+430,Customer 430,Curitiba,PR,Premium,2021-11-25
+431,Customer 431,Brasília,DF,Premium,2022-05-01
+432,Customer 432,São Paulo,SP,Premium,2022-05-24
+433,Customer 433,Recife,PE,Corporate,2021-06-06
+434,Customer 434,Recife,PE,Retail,2022-08-29
+435,Customer 435,São Paulo,SP,Retail,2020-06-23
+436,Customer 436,São Paulo,SP,Premium,2020-07-16
+437,Customer 437,Recife,PE,Retail,2023-02-13
+438,Customer 438,Rio de Janeiro,RJ,Corporate,2023-02-24
+439,Customer 439,Recife,PE,Corporate,2020-09-07
+440,Customer 440,Porto Alegre,RS,Premium,2022-05-16
+441,Customer 441,Rio de Janeiro,RJ,Premium,2021-10-01
+442,Customer 442,Recife,PE,Retail,2023-03-29
+443,Customer 443,Curitiba,PR,Retail,2022-09-14
+444,Customer 444,Curitiba,PR,Retail,2021-12-18
+445,Customer 445,Recife,PE,Retail,2021-07-24
+446,Customer 446,Curitiba,PR,Premium,2023-02-22
+447,Customer 447,Rio de Janeiro,RJ,Corporate,2021-07-01
+448,Customer 448,Rio de Janeiro,RJ,Retail,2021-07-13
+449,Customer 449,Salvador,BA,Premium,2021-12-19
+450,Customer 450,Rio de Janeiro,RJ,Retail,2020-10-20
+451,Customer 451,Porto Alegre,RS,Retail,2020-10-17
+452,Customer 452,Rio de Janeiro,RJ,Retail,2022-12-22
+453,Customer 453,Curitiba,PR,Premium,2022-05-09
+454,Customer 454,Brasília,DF,Premium,2020-11-18
+455,Customer 455,Recife,PE,Premium,2021-10-26
+456,Customer 456,São Paulo,SP,Retail,2020-11-14
+457,Customer 457,Belo Horizonte,MG,Corporate,2020-04-11
+458,Customer 458,São Paulo,SP,Premium,2022-06-26
+459,Customer 459,Porto Alegre,RS,Premium,2022-06-24
+460,Customer 460,Porto Alegre,RS,Premium,2021-03-17
+461,Customer 461,São Paulo,SP,Premium,2022-05-30
+462,Customer 462,São Paulo,SP,Premium,2022-09-23
+463,Customer 463,Salvador,BA,Retail,2021-03-27
+464,Customer 464,Porto Alegre,RS,Corporate,2020-04-22
+465,Customer 465,Rio de Janeiro,RJ,Retail,2021-09-09
+466,Customer 466,Curitiba,PR,Retail,2021-06-07
+467,Customer 467,Salvador,BA,Premium,2020-09-02
+468,Customer 468,Rio de Janeiro,RJ,Premium,2022-05-31
+469,Customer 469,Belo Horizonte,MG,Retail,2022-02-17
+470,Customer 470,Curitiba,PR,Corporate,2023-02-18
+471,Customer 471,Recife,PE,Retail,2022-03-24
+472,Customer 472,Rio de Janeiro,RJ,Premium,2020-02-08
+473,Customer 473,Brasília,DF,Retail,2021-10-03
+474,Customer 474,Porto Alegre,RS,Corporate,2022-04-08
+475,Customer 475,Porto Alegre,RS,Premium,2020-08-23
+476,Customer 476,Porto Alegre,RS,Retail,2021-10-27
+477,Customer 477,Belo Horizonte,MG,Corporate,2022-07-31
+478,Customer 478,Recife,PE,Retail,2022-06-13
+479,Customer 479,São Paulo,SP,Retail,2022-06-11
+480,Customer 480,Porto Alegre,RS,Corporate,2020-06-10
+481,Customer 481,Porto Alegre,RS,Premium,2021-11-26
+482,Customer 482,Curitiba,PR,Premium,2020-12-10
+483,Customer 483,São Paulo,SP,Corporate,2020-08-21
+484,Customer 484,Curitiba,PR,Premium,2021-12-20
+485,Customer 485,Belo Horizonte,MG,Retail,2020-07-29
+486,Customer 486,Belo Horizonte,MG,Premium,2021-02-08
+487,Customer 487,Belo Horizonte,MG,Corporate,2020-11-09
+488,Customer 488,São Paulo,SP,Retail,2022-10-08
+489,Customer 489,Brasília,DF,Corporate,2023-04-01
+490,Customer 490,Brasília,DF,Corporate,2023-03-02
+491,Customer 491,Recife,PE,Corporate,2021-10-09
+492,Customer 492,Belo Horizonte,MG,Premium,2020-05-19
+493,Customer 493,Brasília,DF,Premium,2021-09-12
+494,Customer 494,Salvador,BA,Corporate,2020-04-25
+495,Customer 495,Recife,PE,Corporate,2020-05-31
+496,Customer 496,Salvador,BA,Premium,2022-07-14
+497,Customer 497,Rio de Janeiro,RJ,Retail,2022-01-25
+498,Customer 498,Salvador,BA,Retail,2020-07-03
+499,Customer 499,Porto Alegre,RS,Premium,2023-04-03
+500,Customer 500,Rio de Janeiro,RJ,Premium,2023-03-16
